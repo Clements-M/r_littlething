@@ -43,6 +43,7 @@ for(line in my_notes_content) {
   lower = tolower(line)
   
   #if the lower case line contains the text "todo", then...
+  #Homework Question: What does grepl do? (Google)
   if(grepl("todo", lower) == TRUE){
     #we add the original line to our list of things to do
     my_todos = append(my_todos, line)
