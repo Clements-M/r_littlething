@@ -1,4 +1,4 @@
-# r_littlething
+# r_littlethings
 R Version of: https://github.com/mightyweasel/littlethings
 
 # Programming Exercise: Little Things
